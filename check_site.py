@@ -1,6 +1,6 @@
 import requests
 
-url = "https://www.google.com"
+url = "https://github.com/anouaraddi1296-afk"
 try:
     response = requests.get(url)
     if response.status_code == 200:
